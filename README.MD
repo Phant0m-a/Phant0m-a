@@ -3,7 +3,7 @@
 ## Hello, I'm Ahsan Ali! 👋
 ### Node.js Developer | Express | MongoDB | EJS | Firebase | Flutter
 
-![https://media.licdn.com/dms/image/D5603AQGfHl37awWqsw/profile-displayphoto-shrink_800_800/0/1674048836158?e=1695254400&v=beta&t=ri2W3T7pbzn_bp1ZcJol4FhQdIpRCgGXQZM7GKaefcg]
+!https://media.licdn.com/dms/image/D5603AQGfHl37awWqsw/profile-displayphoto-shrink_800_800/0/1674048836158?e=1695254400&v=beta&t=ri2W3T7pbzn_bp1ZcJol4FhQdIpRCgGXQZM7GKaefcg
 
 </div>
 
