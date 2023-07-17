@@ -34,10 +34,31 @@ Highly skilled Node.js Developer with expertise in Express, MongoDB, EJS, Fireba
 
 ### 🚀 Final Year Project
 Developed a comprehensive final year project that consisted of:
-
+Dropshipper (mahsanali0786.github.io)
 - Android App 📱: Created a user-friendly and feature-rich Android application using Flutter, incorporating Firebase as the backend for data storage and authentication.
 - Desktop Admin App 💻: Developed a desktop admin application using Flutter, enabling efficient management of data and user interactions.
 - Utilized Firebase as the database and authentication entity for seamless data synchronization and secure user authentication.
+### 🌐 Live Projects
+
+#Linedraw (05/2020 - 12/2020)
+Learnt about Firebase tools such as cloud firestore, firebase Auth and Firebase Storage.
+Learnt NodeJS, authentication, cookies & sessions.
+http://linedraw.co
+
+# Biography App (02/2020 - 05/2020)
+Learnt to integrate PayPal with Nodejs.
+Learnt about firebase firestore.
+
+# Course Admin (08/2022 - 09/2022)
+Learnt about admin panels, their flow and mongoDB
+https://course-admin.glitch.me/
+
+# Api-base (06/2020 - 07/2020)
+Api based project to learn about using free rapid-apis
+https://api-base.glitch.me
+
+# Zameenlo (07/2023 - 07/2023)
+https://zamenlo.glitch.me/
 
 ### 📞 References
 Available upon request
