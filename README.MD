@@ -38,7 +38,8 @@ Dropshipper (mahsanali0786.github.io)
 - Android App 📱: Created a user-friendly and feature-rich Android application using Flutter, incorporating Firebase as the backend for data storage and authentication.
 - Desktop Admin App 💻: Developed a desktop admin application using Flutter, enabling efficient management of data and user interactions.
 - Utilized Firebase as the database and authentication entity for seamless data synchronization and secure user authentication.
-### 🌐 Live Projects
+
+## 🌐 Live Projects
 
 ### Linedraw (05/2020 - 12/2020)
 Learnt about Firebase tools such as cloud firestore, firebase Auth and Firebase Storage.
