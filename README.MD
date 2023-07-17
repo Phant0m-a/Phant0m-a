@@ -54,6 +54,10 @@ Learnt about firebase firestore.
 Learnt about admin panels, their flow and mongoDB
 https://course-admin.glitch.me/
 
+### Share files online
+An app to share files with anyone using link & a password!
+https://sharefree.glitch.me/
+
 ### Api-base (06/2020 - 07/2020)
 Api based project to learn about using free rapid-apis
 https://api-base.glitch.me
