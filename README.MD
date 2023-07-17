@@ -23,7 +23,6 @@ Highly skilled Node.js Developer with expertise in Express, MongoDB, EJS, Fireba
 - Tools and Libraries: Git, NPM, Postman
 
 ### 💼 Professional Experience
-# [Company Name], [City, State], [Position Title], [Dates]
 
 - Developed and maintained Node.js applications using Express.js framework, MongoDB for database management, and EJS for server-side rendering.
 - Implemented microservice and MVC architecture to enhance scalability and maintainability of applications.
