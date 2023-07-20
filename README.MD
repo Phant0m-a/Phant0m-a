@@ -54,6 +54,10 @@ Learnt about firebase firestore.
 Learnt about admin panels, their flow and mongoDB
 https://course-admin.glitch.me/
 
+### Zameenlo (07/2023 - 07/2023)
+Show your properties online
+https://zamenlo.glitch.me/
+
 ### Share files online (2021)
 An app to share files with anyone using link & a password!
 https://sharefree.glitch.me/
@@ -62,8 +66,10 @@ https://sharefree.glitch.me/
 Api based project to learn about using free rapid-apis
 https://api-base.glitch.me
 
-### Zameenlo (07/2023 - 07/2023)
-https://zamenlo.glitch.me/
+
+### Auth2 test app
+Testing out google auth 2.0
+https://test-auth2.glitch.me/
 
 ### 📞 References
 Available upon request
